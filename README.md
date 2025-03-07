@@ -29,6 +29,11 @@ I work primarily with:
 - **Alpine.js**
 - **Reef.CSS**
 
+## ✦ Favourites:
+- **Favourite programming language** Lua
+- **Favourite snack** Digestives
+- **Game** Portal 2
+
 ## ✦ Where to Find Me
 
 Want to connect? Reach out through these platforms:
