@@ -30,9 +30,9 @@ I work primarily with:
 - **Reef.CSS**
 
 ## ✦ Favourites:
-- **Favourite programming language** Lua
-- **Favourite snack** Digestives
-- **Game** Portal 2
+- **Favourite programming language** - Lua
+- **Favourite snack** - Digestives
+- **Game** - Portal 2
 
 ## ✦ Where to Find Me
 
