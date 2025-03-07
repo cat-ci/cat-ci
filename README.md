@@ -33,16 +33,7 @@ I work primarily with:
 - **Favourite programming language** - Lua
 - **Favourite snack** - Digestives
 - **Game** - Portal 2
-
-## ✦ Where to Find Me
-
-Want to connect? Reach out through these platforms:
-
-- ✉ Email: [a@catci.net](mailto:a@catci.net)
-- 🐦 X: [@_catci](https://x.com/_catci)
-- 🦋 Bluesky: [@catci.net](https://bsky.app/profile/catci.net)
-- 🌐 Neocities: [@catci](https://neocities.org/site/catci)
-
+  
 ## ✦ What I'm Working On
 
 Currently working on my website
