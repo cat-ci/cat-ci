@@ -20,15 +20,6 @@
 ⠀⠀⠉⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-## ✦ Tech Stack
-
-I work primarily with:
-
-- **Lua (Lapis)**
-- **Nginx**
-- **Alpine.js**
-- **Reef.CSS**
-
 ## ✦ Favourites:
 - **Favourite programming language** - Lua
 - **Favourite snack** - Digestives
