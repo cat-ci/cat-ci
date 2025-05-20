@@ -19,11 +19,6 @@
 ⠈⢿⣧⣀⣀⣀⣀⣤⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠉⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
-
-## ✦ Favourites:
-- **Favourite programming language** - Lua
-- **Favourite snack** - Digestives
-- **Game** - Portal 2
   
 ## ✦ What I'm Working On
 
