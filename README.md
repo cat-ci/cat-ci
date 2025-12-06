@@ -22,6 +22,7 @@
   
 ## ✦ What I'm Working On
 
-Currently working on my website
+- Currently working on my website
+- pepperWM a tiling window manager emulator for most x11 openbox desktop enviroments!
 
 ˙ᵕ˙ **Happy Coding!**
